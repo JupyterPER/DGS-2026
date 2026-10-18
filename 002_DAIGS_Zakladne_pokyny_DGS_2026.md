@@ -1,8 +1,8 @@
-Predmet: Digitálna gramotnosť študenta 2026  
-Vyučujúci: doc. RNDr. Jozef Hanč, PhD., jozef.hanc@upjs.sk  
+**Predmet:** Digitálna gramotnosť študenta 2026  
+**Vyučujúci:** doc. RNDr. Jozef Hanč, PhD., jozef.hanc@upjs.sk  
 Lida Akbari, PhD. lida.akbari@student.upjs.sk  
 
-Dôležité informácie
+**Dôležité informácie**
 
 1. AKO VYZERÁ VÝUČBA?
 Predmet sa absolvuje v móde asynchrónneho e-learningu. To znamená, že:
