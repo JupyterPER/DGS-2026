@@ -1,3 +1,9 @@
+---
+layout: default
+title: Digitálna a AI gramotnosť študenta – DGS 2026
+description: Študijné materiály predmetu Digitálna a AI gramotnosť študenta na Prírodovedeckej fakulte UPJŠ v Košiciach. Informačný list, pokyny, videá a bezpečnosť pri práci s AI.
+---
+
 # Digitálna a AI gramotnosť študenta (DGS 2026)
 
 ## Materiály
